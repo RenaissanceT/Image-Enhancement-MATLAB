@@ -2,7 +2,7 @@
 Enhance an image, the gray-scale image brainMRI.jpg, using intensity transformation in MATLAB.
 
 # <sub> Original Image (L) and Enhanced Image (R)
-  <img src="https://user-images.githubusercontent.com/97911922/150254877-a3d71a28-0978-4ab7-a704-2dae14854984.jpg" width="35%" height="35%"> <img src="https://user-images.githubusercontent.com/97911922/150261516-9e7da792-62c1-455b-9eb8-1a81602e5b6b.png" width="35.5%" height="35.5%">
+  <img src="https://user-images.githubusercontent.com/97911922/150254877-a3d71a28-0978-4ab7-a704-2dae14854984.jpg" width="49%" height="49%"> <img src="https://user-images.githubusercontent.com/97911922/150261516-9e7da792-62c1-455b-9eb8-1a81602e5b6b.png" width="50%" height="50%">
 
 # <sub> Enhancement Results
 <img src="https://user-images.githubusercontent.com/97911922/150262395-d2dbe396-753b-4cd0-82f2-918d1222e8fb.png" width="100%" height="100%">
